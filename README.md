@@ -1,4 +1,4 @@
-#Iris Classification#
+Iris Classification
 
 The dataset used is the Iris dataset used in R.A. Fisher's classic 1936 paper, The Use of Multiple
 Measurements in Taxonomic Problem. The Iris dataset consists of 3 iris species with 50 samples
